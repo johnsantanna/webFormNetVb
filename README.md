@@ -33,7 +33,7 @@ CRUD de clientes em ASP.NET Web Forms (VB.NET) com DataTables, AJAX, máscaras d
      </connectionStrings>
      ```
 
-4. **Definir página inicial** (somente se necessário)
+4. **Definir página inicial** 
    - No **Solution Explorer**, clique com o botão direito em `Login.aspx` → **Set as Start Page**.
 
 5. **Executar a aplicação**  
