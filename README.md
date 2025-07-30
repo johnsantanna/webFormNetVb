@@ -17,7 +17,7 @@ CRUD de clientes em ASP.NET Web Forms (VB.NET) com DataTables, AJAX, máscaras d
 ## Passo a passo para rodar
 
 1. **Abra a solução**  
-   - No Visual Studio, abra o arquivo `webFormVBNet.sln`.
+   - No Visual Studio, abra o arquivo `TesteVBWebForms.sln`.
 
 2. **Restaurar o banco**  
    - No SQL Server Management Studio, abra e execute o `Banco.sql` que está na raiz do projeto.  
